@@ -4,6 +4,7 @@ frontend:
     build:
       commands:
         - echo $PATH
+        - sleep 1m
   artifacts:
     files:
         - index.html
