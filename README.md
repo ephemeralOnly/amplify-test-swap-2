@@ -1,4 +1,4 @@
 # static-html-page
 Simple static html page for testing Amplify static site deployments
 
-trigger #5
+trigger #6
